@@ -1,3 +1,3 @@
 # netflixmovies
 
-Demo: [netflix](http://netflixmovies.herokuapp.com/)
+Demo: http://netflixmovies.herokuapp.com/
